@@ -35,7 +35,7 @@ I'm always open to collaboration, learning opportunities, and connecting with fe
 
 ## Let's Connect
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/j-dheeraj-b30b98153/)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/j-dheeraj-b30b98153/)
 - Email: jdeeran2004@gmail.com
 
 Let's learn, build, and grow together! 🚀✨
