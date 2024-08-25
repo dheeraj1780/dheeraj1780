@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile
 
-Hello there! 👋 I'm Dheeraj J, a passionate Mechanical Engineer from SSNCE and studying Datascience and Programming BSc program at IIT-Madras with a strong interest in computer programming and a hunger for learning. This README.md serves as a snapshot of my journey into the world of technology and programming.
+Hello there! 👋 I'm Dheeraj J, a Mechanical Engineer from SSNCE and studying Datascience and Programming BSc program at IIT-Madras with a strong interest in computer programming and a hunger for learning. This README.md serves as a snapshot of my journey into the world of technology and programming.
 
 ## About Me
 
