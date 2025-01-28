@@ -4,7 +4,6 @@ Hello there! 👋 I'm Dheeraj J, a Mechanical Engineer from SSNCE and studying D
 
 ## About Me
 
-- 🛠️ Mechanical Engineer by day, Code Enthusiast by night
 - 💻 Proficient in Python, Java Web Applications, HTML, CSS, and C++
 - 🚀 Exploring the realms of APIs and web development
 - 🤖 Eager to dive into the exciting worlds of machine learning and artificial intelligence
