@@ -4,7 +4,7 @@ Hello there! 👋 I'm Dheeraj J, a Mechanical Engineer from SSNCE and studying D
 
 ## About Me
 
-- 💻 Proficient in Python, Java Web Applications, HTML, CSS, and C++
+- 💻 Proficient in Python, Java Web Applications, HTML, CSS, and C++ and also MERN Stack
 - 🚀 Exploring the realms of APIs and web development
 - 🤖 Eager to dive into the exciting worlds of machine learning and artificial intelligence
 
@@ -12,7 +12,8 @@ Hello there! 👋 I'm Dheeraj J, a Mechanical Engineer from SSNCE and studying D
 
 I believe in the power of continuous learning and expanding my skill set. Currently, I'm engaged in:
 
-- 🌐 Developing web applications using HTML, CSS, and Python and also currently immersed in the development of a comprehensive Projects using Java technologies. Leveraging Java servlets, JSP (JavaServer Pages), JSTL (JavaServer Pages Standard Tag Library) 
+- 🌐 Developing web applications using HTML, CSS, and Python and also currently immersed in the development of a comprehensive Projects using Java technologies. Leveraging Java servlets, JSP (JavaServer Pages), JSTL (JavaServer Pages Standard Tag Library)
+- Also developed and assisted in projects having MERN Stack.
 - 🤝 Exploring APIs to enhance functionality and connectivity
 - 🚀 Diving into the basics of machine learning and AI
 
@@ -20,7 +21,6 @@ I believe in the power of continuous learning and expanding my skill set. Curren
 
 I'm a firm believer in the philosophy of "Never stop learning." My learning path includes:
 
-- 📚 Enrolling in online courses to deepen my understanding
 - 💡 Working on small projects to apply theoretical knowledge
 - 🧠 Engaging with the programming community to stay updated
 
