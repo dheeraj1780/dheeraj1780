@@ -22,7 +22,6 @@ I believe in the power of continuous learning and expanding my skill set. Curren
 I'm a firm believer in the philosophy of "Never stop learning." My learning path includes:
 
 - 💡 Working on small projects to apply theoretical knowledge
-- 🧠 Engaging with the programming community to stay updated
 
 ## Get in Touch
 
