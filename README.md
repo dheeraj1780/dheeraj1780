@@ -12,7 +12,7 @@ Hello there! 👋 I'm Dheeraj J, a Mechanical Engineer from SSNCE and studying D
 
 I believe in the power of continuous learning and expanding my skill set. Currently, I'm engaged in:
 
-- 🌐 Developing web applications using HTML, CSS, and Python and also currently immersed in the development of a comprehensive Projects using Java technologies. Leveraging Java servlets, JSP (JavaServer Pages), JSTL (JavaServer Pages Standard Tag Library)
+- 🌐 Developing web applications using HTML, CSS, and Python and also currently immersed in the development of a comprehensive Projects using MERN Stack.
 - Also developed and assisted in projects having MERN Stack.
 - 🤝 Exploring APIs to enhance functionality and connectivity
 - 🚀 Diving into the basics of machine learning and AI
